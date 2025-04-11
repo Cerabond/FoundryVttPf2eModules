@@ -1,0 +1,15 @@
+{
+  "name": "cerabonds-unknown-creature-name",
+  "title": "Cerabond's Unknown Creature Name",
+  "description": "Automatically changes combatants' display names (but not character sheet name) to 'Unknown Creature' when added to initiative.",
+  "version": "1.0.0",
+  "authors": [
+    {
+      "name": "Cerabond"
+    }
+  ],
+  "manifest": "modules/cerabonds-unknown-creature-name/module.json",
+  "esmodules": [
+    "unknown-name.js"
+  ]
+}

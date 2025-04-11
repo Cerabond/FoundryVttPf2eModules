@@ -1,0 +1,15 @@
+{
+  "name": "cerabonds-current-combatant-sheet",
+  "title": "Cerabond's Current Combatant Sheet",
+  "description": "Automatically closes all character sheets and opens the current NPC combatant's sheet on their turn.",
+  "version": "1.0.0",
+  "authors": [
+    {
+      "name": "Cerabond"
+    }
+  ],
+  "manifest": "modules/cerabonds-current-combatant-sheet/module.json",
+  "esmodules": [
+    "auto-switch.js"
+  ]
+}

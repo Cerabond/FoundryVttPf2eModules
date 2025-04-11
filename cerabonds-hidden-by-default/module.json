@@ -1,0 +1,10 @@
+{
+    "name": "cerabonds-hidden-by-default",
+    "title": "Cerabond's Hidden by Default",
+    "description": "Automatically hides NPCs from the combat tracker (but not the token itself) when added to combat.",
+    "version": "1.0.0",
+    "authors": [{"name": "Cerabond"}],
+    "manifest": "modules/cerabonds-hidden-by-default/module.json",
+    "esmodules": ["auto-hide.js"]
+  }
+  

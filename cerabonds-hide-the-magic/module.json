@@ -1,0 +1,10 @@
+{
+    "name": "cerabonds-hide-the-magic",
+    "title": "Cerabond's Hide the Magic",
+    "description": "Automatically opens the Chat Messages tab when tokens are added to initiative.",
+    "version": "1.0.0",
+    "authors": [{"name": "Cerabond"}],
+    "manifest": "modules/cerabonds-hide-the-magic/module.json",
+    "esmodules": ["force-chat-tab.js"]
+  }
+  

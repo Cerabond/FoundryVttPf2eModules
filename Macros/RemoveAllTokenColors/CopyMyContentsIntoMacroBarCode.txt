@@ -1,0 +1,5 @@
+(async () => {
+  canvas.tokens.placeables.forEach(token => {
+    token.document.update({ "texture.tint": null });
+  });
+})();
