@@ -1,4 +1,4 @@
-# FoundryVttPf2eModules
+# Cerabond's Module Suite for Foundry VTT and PF2e
 A collection of various quality of life modules for PF2e in Foundry Vtt
 
 ## Installation Instructions:
